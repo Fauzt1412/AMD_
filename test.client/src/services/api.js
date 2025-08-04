@@ -1,5 +1,5 @@
 // API service for communicating with the backend
-const API_BASE_URL = '/api'
+const API_BASE_URL = '/gateway'
 
 class ApiService {
   // Helper method for making HTTP requests
