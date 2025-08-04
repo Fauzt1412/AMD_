@@ -1,7 +1,7 @@
 // Configuration for the application
 export const config = {
   // Set to true to use backend API, false to use localStorage
-  USE_BACKEND_API: false,
+  USE_BACKEND_API: true,
   
   // Backend API base URL
   API_BASE_URL: '/api',
